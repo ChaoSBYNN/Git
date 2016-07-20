@@ -1,8 +1,5 @@
 Test a
 
-批量提交方式
-
-vi与Git 之间的关心
-
+aaaaaa
 Test VIM Wrote
 
