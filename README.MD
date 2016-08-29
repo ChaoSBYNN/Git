@@ -1,10 +1,5 @@
-#Git test
->Java 环境
+#Git 
 
-Nothing here
-'''
- test
-'''
 '''java
 
     public class test {
@@ -15,5 +10,4 @@ Nothing here
 
     }
 
-var
-
+'''
