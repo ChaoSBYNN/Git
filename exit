@@ -1,0 +1,25 @@
+warning: LF will be replaced by CRLF in green.py.
+The file will have its original line endings in your working directory.
+[1mdiff --git a/green.py b/green.py[m
+[1mindex c77cb99..8c2bb5b 100644[m
+[1m--- a/green.py[m
+[1m+++ b/green.py[m
+[36m@@ -37,4 +37,4 @@[m [mdef daily_commit(start_date, end_date):[m
+ [m
+ [m
+ if __name__ == '__main__':[m
+[31m-    daily_commit(datetime.date(2015, 3, 31), datetime.date(2016, 1, 28))[m
+[32m+[m[32m    daily_commit(datetime.date(2015, 3, 10), datetime.date(2016, 3, 1))[m
+[1mdiff --git a/heavy.py b/heavy.py[m
+[1mindex 92e9827..ef9a919 100644[m
+[1m--- a/heavy.py[m
+[1m+++ b/heavy.py[m
+[36m@@ -52,5 +52,5 @@[m [mdef love_commit(start_date, path, etc_path):[m
+ [m
+ [m
+ if __name__ == '__main__':[m
+[31m-    love_commit(datetime.date(2015, 3, 1), '/media/Software/coding/python/loveci/only.you', 'etc/love')[m
+[32m+[m[32m    love_commit(datetime.date(2015, 2, 10), 'E:/Git/config', 'etc/love')[m
+ [m
+warning: LF will be replaced by CRLF in heavy.py.
+The file will have its original line endings in your working directory.
